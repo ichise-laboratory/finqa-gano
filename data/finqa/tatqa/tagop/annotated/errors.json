@@ -1,0 +1,901 @@
+{
+    "train": {
+        "63860d48-e7b3-43d9-a2b7-f4e9f0a96cc8": {
+            "case": "negative_num",
+            "keyword": "cost",
+            "operator": "sum"
+        },
+        "98e06fb7-4f67-4062-9097-a80cc7ce2b2d": {
+            "case": "negative_num",
+            "keyword": "change",
+            "operator": "sum"
+        },
+        "6208cbde-da70-4279-b0cb-9ff7298d5d26": {
+            "case": "negative_num",
+            "keyword": "change",
+            "operator": "sum"
+        },
+        "6db94fb6-4116-44dc-8426-229509a07473": {
+            "case": "negative_num",
+            "keyword": "change",
+            "operator": "sum"
+        },
+        "86ffba83-9769-4bda-9119-309782251721": {
+            "case": "positive_num",
+            "keyword": "expire",
+            "operator": "sum"
+        },
+        "3c73fce9-fae4-4214-b746-27511a272775": {
+            "case": "positive_num",
+            "keyword": "cost",
+            "operator": "sum"
+        },
+        "7fc9f59a-ed2b-414f-9eb9-a5a026755a12": {
+            "case": "positive_num",
+            "keyword": "expense",
+            "operator": "sum"
+        },
+        "cc0d7919-5433-4fcc-a2b6-f50cd77d5ec9": {
+            "case": "negative_num",
+            "keyword": "income",
+            "operator": "sum",
+            "suggested_operator": "diff"
+        },
+        "b469d689-2220-40cd-b43e-157e98a36b15": {
+            "case": "different_scales",
+            "operator": "sum"
+        },
+        "c186dbcf-a579-4818-9721-7451ef73e413": {
+            "case": "negative_num",
+            "keyword": "liability",
+            "operator": "sum"
+        },
+        "da72b98f-7f07-44b9-a412-a5760dbe5f25": {
+            "case": "negative_num",
+            "keyword": "change",
+            "operator": "sum",
+            "suggested_operator": "diff"
+        },
+        "95be65b2-9f13-4629-8afe-c8fd91939aea": {
+            "case": "negative_num",
+            "keyword": "difference",
+            "operator": "sum",
+            "suggested_operator": "diff"
+        },
+        "2a642df2-86ed-4ed4-a634-586b3eb530db": {
+            "case": "positive_num",
+            "keyword": "write-off",
+            "operator": "sum"
+        },
+        "c8a6dce3-1d97-4656-8f53-77e759ee6306": {
+            "case": "positive_num",
+            "keyword": "cost",
+            "operator": "sum"
+        },
+        "93b7dc03-aee1-48e4-b926-dbe54a180c58": {
+            "case": "positive_num",
+            "keyword": "loss",
+            "operator": "sum"
+        },
+        "9dc45e86-7631-43b6-b108-8a486d96fa97": {
+            "case": "negative_num",
+            "keyword": "change",
+            "operator": "sum"
+        },
+        "5b2ae1f3-b513-42d3-8084-5ff3c6a67360": {
+            "case": "different_scales",
+            "operator": "sum"
+        },
+        "3aa326fe-de00-4e89-b43d-2e22796d197d": {
+            "case": "positive_num",
+            "keyword": "expense",
+            "operator": "sum"
+        },
+        "b2003cb6-e6c7-4c02-98c5-668afb341cd8": {
+            "case": "negative_num",
+            "keyword": "difference",
+            "operator": "sum"
+        },
+        "aed645fc-c254-4a26-8db0-a2a9e7ca10be": {
+            "case": "negative_num",
+            "keyword": "change",
+            "operator": "sum"
+        },
+        "570252f5-ac84-4762-8227-e949f34ef2b6": {
+            "case": "positive_num",
+            "keyword": "liability",
+            "operator": "sum"
+        },
+        "36817069-ab51-4eff-94b9-4825dfb6a10e": {
+            "case": "positive_num",
+            "operator": "sum"
+        },
+        "1500d275-4b93-4659-9836-1dc5f7512cf3": {
+            "case": "positive_num",
+            "operator": "sum"
+        },
+        "52b2ab0e-2a0d-4c6f-8de7-bbcefd33ec75": {
+            "case": "wrong_operator",
+            "operator": "sum",
+            "suggested_operator": "diff"
+        },
+        "d4505f51-bae0-41fa-bd02-1880393db83d": {
+            "case": "wrong_operator",
+            "operator": "sum",
+            "suggested_operator": "diff"
+        },
+        "1e88e35e-9136-4391-ae12-abda3760cb2f": {
+            "case": "wrong_operator",
+            "operator": "sum",
+            "suggested_operator": "diff"
+        },
+        "6ca1b744-a65d-470c-98ed-ddab564e503b": {
+            "case": "wrong_operator",
+            "operator": "sum",
+            "suggested_operator": "diff"
+        },
+        "0e52cb68-3dab-4466-9609-76013eddb91c": {
+            "case": "wrong_operator",
+            "operator": "sum",
+            "suggested_operator": "diff"
+        },
+        "9e852bfd-b58c-441c-9ceb-66bef6d7567b": {
+            "case": "wrong_operator",
+            "operator": "sum",
+            "suggested_operator": "diff"
+        },
+        "987ecf3f-b100-439a-a00c-1e05e543ca3e": {
+            "case": "negative_num",
+            "operator": "sum"
+        },
+        "8dd7780e-c884-494c-8b2b-5f3bef3a2d8f": {
+            "case": "different_scales",
+            "operator": "multiply"
+        },
+        "b7b4f082-26eb-49ef-8a6d-00f513c6d1f7": {
+            "case": "different_scales",
+            "operator": "multiply"
+        },
+        "a7be48e6-424d-46e6-8aab-83ed190b108b": {
+            "case": "multiple_by_12",
+            "operator": "multiply"
+        },
+        "7b1af34b-dbd5-4faa-8041-ff3f28c0c2c6": {
+            "case": "negative_num",
+            "keyword": "forfeit",
+            "operator": "multiply"
+        },
+        "675cf48e-c268-4166-be4a-319132b1159a": {
+            "case": "extract_text_num",
+            "operator": "multiply"
+        },
+        "86044b7d-d0f9-4496-ba48-a541ccf66dfb": {
+            "case": "missing_fact",
+            "operator": "multiply"
+        },
+        "f04ba0c1-0c0b-4184-a329-edf36c079592": {
+            "case": "positive_num",
+            "operator": "multiply"
+        },
+        "70cc2860-933e-415f-acc0-d49985ed86d3": {
+            "case": "positive_num",
+            "keyword": "expense",
+            "operator": "average"
+        },
+        "f944b361-6e00-45c8-a7e1-1f5c6e0fd6b1": {
+            "case": "positive_num",
+            "keyword": "expense",
+            "operator": "average"
+        },
+        "64a086c9-db3e-4376-bde3-0320d697d7b9": {
+            "case": "positive_num",
+            "keyword": "expense",
+            "operator": "average"
+        },
+        "cc42e86a-c56d-4638-b94c-bf4cc5ebd7c5": {
+            "case": "positive_num",
+            "keyword": "expense",
+            "operator": "average"
+        },
+        "865936a8-7148-46ed-a9b1-f83b565c693a": {
+            "case": "positive_num",
+            "keyword": "expense",
+            "operator": "average"
+        },
+        "b5ee4d4a-a7f9-4d10-bbd9-c77e211bfd98": {
+            "case": "multiple_num_cell",
+            "operator": "average"
+        },
+        "a662838a-59a1-482b-8365-06c05759baf8": {
+            "case": "multiple_num_cell",
+            "operator": "average"
+        },
+        "361f43b8-9f28-4bb0-8261-489027ff1e3f": {
+            "case": "multiple_num_cell",
+            "operator": "average"
+        },
+        "e1975a9f-fef9-4d1e-a4ba-07337520aa8f": {
+            "case": "dash_in_cell",
+            "operator": "average"
+        },
+        "128ff9ae-dd5e-4ef3-8d30-183ed9ae3f58": {
+            "case": "dash_in_cell",
+            "operator": "average"
+        },
+        "76c58523-63e9-4230-a095-a50d1f188c67": {
+            "case": "positive_num",
+            "keyword": "payment",
+            "operator": "average"
+        },
+        "a994f132-dc76-4586-9ca2-aeff70bb8c13": {
+            "case": "positive_num",
+            "keyword": "loss",
+            "operator": "average"
+        },
+        "26c4f514-2ea5-4099-a766-6847502912d9": {
+            "case": "positive_num",
+            "keyword": "cost",
+            "operator": "average"
+        },
+        "1be3cd60-1510-47d0-9071-613ea193c255": {
+            "case": "empty_cell",
+            "operator": "average"
+        },
+        "fb0f41ac-d7bc-4305-990a-c2f40f89d2d1": {
+            "case": "empty_cell",
+            "operator": "average"
+        },
+        "23e8a083-ac1d-43be-a642-907abcaa1f39": {
+            "case": "unknown",
+            "operator": "average"
+        },
+        "0a56e98c-6aaf-4396-ac37-c410485a724b": {
+            "case": "dash_in_cell",
+            "operator": "average"
+        },
+        "28ab4bcd-5e8d-4c1c-9fb9-f7a8051df1ba": {
+            "case": "dash_in_cell",
+            "operator": "average"
+        },
+        "51c5cb7a-0462-4116-92ee-a78867126948": {
+            "case": "dash_in_cell",
+            "operator": "average"
+        },
+        "eea581e8-4d4b-4104-8ae8-7f18123d573d": {
+            "case": "dash_in_cell",
+            "operator": "average"
+        },
+        "dd026e2a-ea3d-4b89-9c44-ce3f5e6fe99b": {
+            "case": "dash_in_cell",
+            "operator": "average"
+        },
+        "dd9f4624-f006-4400-9dfe-2ef3be05c744": {
+            "case": "dash_in_cell",
+            "operator": "average"
+        },
+        "e2242a2f-e79d-4e0c-a68b-630ca7dfdfad": {
+            "case": "dash_in_cell",
+            "operator": "average"
+        },
+        "8307739d-f86b-4b98-8a23-8e5680efa2d4": {
+            "case": "dash_in_cell",
+            "operator": "average"
+        },
+        "7ed29b79-fb6c-4f56-9cd5-f7c583c4b903": {
+            "case": "dash_in_cell",
+            "operator": "average"
+        },
+        "e8911f53-8766-4784-94ab-744df685e578": {
+            "case": "truncated_num",
+            "operator": "average"
+        },
+        "2ac298d2-8144-48f1-bb0f-d4c657631889": {
+            "case": "truncated_num",
+            "operator": "average"
+        },
+        "046cdb6c-1bf1-4c24-8ef4-4a5b95798ba0": {
+            "case": "positive_num",
+            "operator": "average"
+        },
+        "77ae2ae2-26ad-4c7f-bb2a-9f0003fbf2f9": {
+            "case": "positive_num",
+            "keyword": "expense",
+            "operator": "average"
+        },
+        "24402637-32f9-4129-baac-c7a3f1c78e2e": {
+            "case": "dash_in_cell",
+            "operator": "average"
+        },
+        "71d38023-3e0a-46b4-b4bd-ae1d42538925": {
+            "case": "positive_num",
+            "keyword": "expense",
+            "operator": "average"
+        },
+        "fbe94a58-e752-4a49-bd54-1d964d08d893": {
+            "case": "dash_in_cell",
+            "operator": "average"
+        },
+        "2da2dddf-f3da-470a-a34a-6a0df5947472": {
+            "case": "positive_num",
+            "keyword": "cost",
+            "operator": "average"
+        },
+        "e83f1766-e8b6-421f-b51c-f56d29e513a8": {
+            "case": "positive_num",
+            "keyword": "cost",
+            "operator": "average"
+        },
+        "5889dc0a-01d5-4719-aa01-a925508c5361": {
+            "case": "positive_num",
+            "keyword": "loss",
+            "operator": "average"
+        },
+        "76f80a7d-734a-425b-a5d5-2e80e6c2ada5": {
+            "case": "positive_num",
+            "operator": "average"
+        },
+        "9907aed5-a213-48ff-930f-c214d5930957": {
+            "case": "positive_num",
+            "operator": "average"
+        },
+        "62fbf090-8387-46dd-9e2b-d319699e4811": {
+            "case": "dash_in_cell",
+            "operator": "average"
+        },
+        "5750ae41-8e8a-48f9-8258-149dcdd88071": {
+            "case": "extract_text_num",
+            "operator": "average"
+        },
+        "9b7069e3-d856-493e-8849-af640f1c0dec": {
+            "case": "positive_num",
+            "keyword": "loss",
+            "operator": "average"
+        },
+        "0843e382-de19-45f4-84f1-8ab185fcb1e5": {
+            "case": "positive_num",
+            "keyword": "cost",
+            "operator": "average"
+        },
+        "96223739-2e68-4986-af4d-43cf1bfd533f": {
+            "case": "positive_num",
+            "keyword": "loss",
+            "operator": "average"
+        },
+        "5d3f0440-ad91-4795-90af-a56ec59c0508": {
+            "case":"multiple_num_cell",
+            "operator": "average"
+        },
+        "4e57c745-28aa-4ba9-a690-164e8b4d41c5": {
+            "case":"multiple_num_cell",
+            "operator": "average"
+        },
+        "e3b6c3ce-bc96-49e0-a2a5-2aca2376db03": {
+            "case":"multiple_num_cell",
+            "operator": "average"
+        },
+        "6f710d2a-7927-4fba-97f5-770857e2b433": {
+            "case": "positive_num",
+            "keyword": "expense",
+            "operator": "average"
+        },
+        "28042ec5-d6a5-40e2-8c61-6ba2fb1194b5": {
+            "case": "dash_in_cell",
+            "operator": "average"
+        },
+        "b8648f43-1431-48ec-b4d9-c9d12bb03c2a": {
+            "case": "positive_num",
+            "operator": "average"
+        },
+        "daeeefcc-2399-4831-8353-996d9e51f86b": {
+            "case": "positive_num",
+            "operator": "average"
+        },
+        "66d990f3-55ba-43ea-bd54-64ccaa44c6af": {
+            "case": "positive_num",
+            "operator": "average"
+        },
+        "892cca19-b511-4951-a701-2965c04acfa0": {
+            "case": "positive_num",
+            "operator": "average"
+        },
+        "2c67b499-67d9-457b-9580-d45e22430106": {
+            "case": "positive_num",
+            "keyword": "decrease",
+            "operator": "diff"
+        },
+        "ac3279cb-69ae-4313-9859-b7bf479e88e2": {
+            "case": "space_negative_num",
+            "operator": "diff"
+        },
+        "519f1c94-40f1-4d43-b85f-6825297e88f5": {
+            "case": "remark_num",
+            "operator": "diff"
+        },
+        "b87e33b2-08c5-4162-80a3-e29a30e3958e": {
+            "case": "remark_num",
+            "operator": "diff"
+        },
+        "e27c8621-cc51-42a3-abb1-9503bcc35a77": {
+            "case": "negative_num",
+            "keyword": "liability",
+            "operator": "diff",
+            "suggested_operator": "sum"
+        },
+        "c5932c45-9e8c-47ae-8a04-dc92c9b0e28c": {
+            "case": "positive_num",
+            "keyword": "cost",
+            "operator": "diff"
+        },
+        "9b72b5d2-0c52-4c8e-94c0-622dc8daab40": {
+            "case": "different_scales",
+            "operator": "diff"
+        },
+        "a26fb6ae-f824-4ada-841d-23b5720f3bac": {
+            "case": "positive_num",
+            "keyword": "expense",
+            "operator": "diff"
+        },
+        "62eec88f-f7e7-46cd-a252-870fcb66ac81": {
+            "case": "positive_num",
+            "keyword": "decrease",
+            "operator": "diff"
+        },
+        "a85cf2f4-4e41-4240-aec7-68c25d5d5855": {
+            "case": "different_scales",
+            "operator": "diff"
+        },
+        "2d346f34-2f7c-4031-b63f-670c1a74d898": {
+            "case": "dash_in_cell",
+            "operator": "diff"
+        },
+        "25479880-dd45-4e7c-bb3a-22d9215f7a1c": {
+            "case": "negative_num",
+            "keyword": "expense",
+            "operator": "diff"
+        },
+        "49baf56b-4228-47cb-a72e-279f63112997": {
+            "case": "dash_in_cell",
+            "operator": "diff"
+        },
+        "f9f54644-7716-4e1f-b5f0-f9d37456a9a5": {
+            "case": "positive_num",
+            "operator": "diff"
+        },
+        "ff498c8f-84c1-4a62-843e-3b90a05de678": {
+            "case": "text_missing_percent",
+            "operator": "diff"
+        },
+        "846a5e2f-f4f0-4eaf-8f17-4d445e379188": {
+            "case": "year",
+            "operator": "diff"
+        },
+        "7cfe14f7-f623-411c-99b8-d00e030d8c58": {
+            "case": "positive_num",
+            "keyword": "expense",
+            "operator": "diff"
+        },
+        "c7d4ebdf-816e-40aa-8ac8-5dc5ff6c0a9a": {
+            "case": "positive_num",
+            "keyword": "expense",
+            "operator": "diff"
+        },
+        "7946e7a6-2e24-4fe6-8098-b4dbce2ba479": {
+            "case": "dash_in_cell",
+            "operator": "diff"
+        },
+        "f5749d10-c439-4aaf-80d9-4f95174ca008": {
+            "case": "positive_num",
+            "keyword": "depreciation",
+            "operator": "diff"
+        },
+        "09f25ae2-0c42-4471-9121-ab1a2caefca8": {
+            "case": "positive_num",
+            "keyword": "deficit",
+            "operator": "diff"
+        },
+        "94e84355-77a3-45b0-9d0b-02baf52ff6ed": {
+            "case": "rounding",
+            "operator": "diff"
+        },
+        "a934de94-63fb-4a91-820e-26e79d486fbb": {
+            "case": "negative_num",
+            "keyword": "cash",
+            "operator": "diff"
+        },
+        "4c7876b8-6750-49e4-8566-b552c23b4d0b": {
+            "case": "dash_in_cell",
+            "operator": "diff"
+        },
+        "79ce0a23-afbf-43bf-b426-65c2d70af3ae": {
+            "case": "scale",
+            "operator": "diff"
+        },
+        "5a6118c1-7eb6-44da-a51c-b051e0a694f8": {
+            "case": "negative_num",
+            "keyword": "amortization",
+            "operator": "diff"
+        },
+        "b49fc78b-ffca-43ba-b1d0-65b510dd6627": {
+            "case": "text_in_cell",
+            "operator": "diff"
+        },
+        "7d11b06c-f536-4832-93a4-b445966f8726": {
+            "case": "missing_scale",
+            "operator": "diff"
+        },
+        "caa99307-cb75-40e4-8556-cf74a71ad66e": {
+            "case": "missing_scale",
+            "operator": "diff"
+        },
+        "2ce27b5f-01fa-46f5-9a39-91456fae072b": {
+            "case": "missing_scale",
+            "operator": "diff"
+        },
+        "01d87bbf-e6c3-40d1-8785-de9d7dda523d": {
+            "case": "year",
+            "operator": "diff"
+        },
+        "aa17cd8c-19c9-4fa2-a994-3181027b25e5": {
+            "case": "rounding",
+            "operator": "diff"
+        },
+        "58a0ee15-e122-48de-b588-f6137bd8877f": {
+            "case": "unknown",
+            "operator": "diff"
+        },
+        "90f36fef-541d-43e5-ad2b-7389b85cd0f6": {
+            "case": "scale_in_text",
+            "operator": "diff"
+        },
+        "cbe2b70d-6bd6-421f-98e0-6fc370b5367a": {
+            "case": "negative_num",
+            "keyword": "amortization",
+            "operator": "diff"
+        },
+        "b8e25609-059e-4d02-8a73-a95bc67aa323": {
+            "case": "scale",
+            "operator": "diff"
+        },
+        "19758ace-665a-4d0c-84dd-cbe82cf3f64a": {
+            "case": "positive_num",
+            "keyword": "allowance",
+            "operator": "diff"
+        },
+        "37bb017a-6bce-441d-9679-ebbc2ee89892": {
+            "case": "num_in_question",
+            "operator": "diff"
+        },
+        "bf5a7921-bf9e-45d4-ae70-00b91c0f2aaf": {
+            "case": "positive_num",
+            "keyword": "expense",
+            "operator": "diff"
+        },
+        "cf09d5e1-7410-4dc6-9e90-0bcd4cbddb90": {
+            "case": "positive_num",
+            "operator": "diff"
+        },
+        "a7500738-2bd2-4061-b496-e690e5fd5bae": {
+            "case": "wrong_operator",
+            "operator": "divide",
+            "suggested_operator": "average"
+        },
+        "0d3a1b7b-890b-455a-b55a-082bb5fe6ceb": {
+            "case": "positive_num",
+            "keyword": "deferred",
+            "operator": "divide"
+        },
+        "33d25508-280a-4cb8-8b33-356b8a19d758": {
+            "case": "different_scales",
+            "operator": "divide"
+        },
+        "b7e32477-3f78-48df-ab59-2764f0e097e9": {
+            "case": "positive_num",
+            "operator": "divide"
+        },
+        "64acd3bf-7c44-49b9-af92-66bfe6b5bb00": {
+            "case": "wrong_operator",
+            "operator": "divide",
+            "suggested_operator": "average"
+        },
+        "3669ea91-2ddf-4f8f-a3c0-e26395285c84": {
+            "case": "wrong_operator",
+            "operator": "divide",
+            "suggested_operator": "average"
+        },
+        "e7b52704-b06c-460c-8342-4e26ccb8a137": {
+            "case": "wrong_operator",
+            "operator": "divide",
+            "suggested_operator": "average"
+        },
+        "b799015d-5b5d-40cd-b2fb-fbcd44b3d628": {
+            "case": "wrong_operator",
+            "operator": "divide",
+            "suggested_operator": "average"
+        },
+        "e6f90616-a0fc-43fa-9038-a89a65238ec2": {
+            "case": "positive_num",
+            "keyword": "impairment",
+            "operator": "divide"
+        },
+        "cc6c96ec-a30c-49d9-974d-4c8ae2409ef8": {
+            "case": "positive_num",
+            "keyword": "forfeit",
+            "operator": "divide"
+        },
+        "a3912857-5f6a-4b02-ad7e-be47e3e60f6f": {
+            "case": "different_scales",
+            "operator": "divide"
+        },
+        "7e65272f-16dd-47aa-ac8e-30d2ba439551": {
+            "case": "positive_num",
+            "operator": "divide"
+        },
+        "cab4b66c-20c8-46f2-94be-809158a9b070": {
+            "case": "positive_num",
+            "operator": "divide"
+        },
+        "b18c44c4-afd6-4b20-8396-b37ab58aecf3": {
+            "case": "missing_scale",
+            "operator": "divide"
+        },
+        "594977f0-40e3-48a1-9d85-fbb6502164af": {
+            "case": "different_scales",
+            "operator": "divide"
+        },
+        "379dc971-d303-48d2-bfa4-b302577d1dbc": {
+            "case": "wrong_operator",
+            "operator": "divide",
+            "suggested_operator": "average"
+        },
+        "e5d971f8-ad94-46de-a447-77a3b011f197": {
+            "case": "wrong_operator",
+            "operator": "divide",
+            "suggested_operator": "average"
+        },
+        "62abf0bd-d610-45be-bf0e-87fa987e0acf": {
+            "case": "wrong_operator",
+            "operator": "divide",
+            "suggested_operator": "average"
+        },
+        "ec52dc53-d3b3-48f4-a223-8a49d1dc1a80": {
+            "case": "wrong_operator",
+            "operator": "divide",
+            "suggested_operator": "average"
+        },
+        "f1700743-3ddf-420f-a1b7-86ec8270a01c": {
+            "case": "remark_num",
+            "operator": "divide"
+        },
+        "47d32a37-c684-4537-a9b7-a72fe85a9eb3": {
+            "case": "remark_num",
+            "operator": "divide"
+        },
+        "75ad0b94-d300-42aa-a5bb-a524ccdfe8de": {
+            "case": "remark_num",
+            "operator": "divide"
+        },
+        "54a0d462-029a-418e-ad93-c752dfed6271": {
+            "case": "positive_num",
+            "operator": "divide"
+        },
+        "6fe95700-5707-4d75-b048-7fb7c44e2ce0": {
+            "case": "remark_num",
+            "operator": "divide"
+        },
+        "bbedb0d4-e9ff-4579-bf2e-ac070884a012": {
+            "case": "positive_num",
+            "operator": "divide",
+            "suggested_operator": "average"
+        },
+        "b6268793-1994-436f-b37f-0dc551cbe17b": {
+            "case": "wrong_operator",
+            "operator": "divide",
+            "suggested_operator": "average"
+        },
+        "45579145-3543-42bc-aa63-3a114107bae0": {
+            "case": "positive_num",
+            "keyword": "impairment",
+            "operator": "divide"
+        },
+        "c9ab65e4-737b-472f-994f-139f94599b37": {
+            "case": "different_scales",
+            "note": "complex_opr",
+            "operator": "divide"
+        },
+        "b6edd3a5-0db4-4600-b34f-1530e2d6c6ad": {
+            "case": "different_scales",
+            "operator": "divide"
+        },
+        "678a3e89-80a5-4201-936a-95e233d5ee06": {
+            "case": "positive_num",
+            "keyword": "depreciation",
+            "operator": "divide"
+        },
+        "6260f7c6-ca79-48ef-8c49-21ce8970e758": {
+            "case": "positive_num",
+            "keyword": "benefit",
+            "operator": "divide"
+        },
+        "86fc5bff-17bf-4da0-81d8-3e16e28b4a6b": {
+            "case": "wrong_operator",
+            "operator": "divide",
+            "suggested_operator": "average"
+        },
+        "167ebe4e-11c4-4b5a-b9d8-e4b77927dfba": {
+            "case": "positive_num",
+            "keyword": "cost",
+            "operator": "divide"
+        },
+        "e3471c4c-5757-4ab5-9b9e-78e5f33054be": {
+            "case": "remark_num",
+            "operator": "divide"
+        },
+        "77739a02-24f7-4ef8-99aa-07e2a2a54fc": {
+            "case": "different_scales",
+            "operator": "divide"
+        },
+        "d9c7bdc4-80ff-4e78-ba50-58671f274258": {
+            "case": "positive_num",
+            "keyword": "divestment",
+            "operator": "divide"
+        },
+        "1050f6db-8578-48f2-926c-50bed6821d54": {
+            "case": "positive_num",
+            "keyword": "expense",
+            "operator": "divide"
+        },
+        "36423280-13c4-41b2-b823-fe21f61207f4": {
+            "case": "positive_num",
+            "keyword": "cost",
+            "operator": "divide"
+        },
+        "8968467b-de59-4fc8-87a7-e0d98f679a47": {
+            "case": "positive_num",
+            "keyword": "expense",
+            "operator": "divide"
+        },
+        "aefd6fbf-a8a0-4cfa-828d-3adb99032e51": {
+            "case": "positive_num",
+            "keyword": "cost",
+            "operator": "divide"
+        },
+        "3e400cfd-21cc-41da-8548-fea422e1bd7c": {
+            "case": "remark_num",
+            "operator": "divide"
+        },
+        "b4411d64-60e2-46ac-b76e-2190c3b45f36": {
+            "case": "positive_num",
+            "operator": "divide"
+        },
+        "4b69faec-8324-434e-8fbf-9ab4c0036c27": {
+            "case": "dash_in_cell",
+            "operator": "change-ratio"
+        },
+        "9508496f-0cc4-48d8-ba9a-1112c6f9063f": {
+            "case": "positive_num",
+            "keyword": "liability",
+            "operator": "change-ratio"
+        },
+        "f9d42fbc-501e-42d6-af7f-ad19869235cc": {
+            "case": "dash_in_cell",
+            "operator": "change-ratio"
+        },
+        "48bbe35a-806a-48fa-91e8-550559ef223c": {
+            "case": "positive_num",
+            "keyword": "loss",
+            "operator": "change-ratio"
+        },
+        "ed132777-1cf7-45a8-95f9-87d1c0ce8609": {
+            "case": "wrong_operator",
+            "operator": "change-ratio",
+            "suggested_operator": "diff"
+        },
+        "de0d47c2-9eb2-4109-b0a2-478ec56bee36": {
+            "case": "positive_num",
+            "keyword": "expense",
+            "operator": "change-ratio"
+        },
+        "dda99cf6-b219-40dc-a422-0b91fd252f54": {
+            "case": "negative_num",
+            "operator": "change-ratio"
+        },
+        "7e53e578-3466-4b75-be38-6dce505d3061": {
+            "case": "negative_num",
+            "keyword": "loss",
+            "operator": "change-ratio"
+        }
+    },
+    "val": {
+        "f96cce90-9703-4b6b-9ea4-1a650ac8765a": {
+            "case": "negative_num",
+            "keyword": "change",
+            "operator": "sum",
+            "suggested_operator": "diff"
+        },
+        "c4a0f2ab-d7d0-448a-b5f7-85310e5e3427": {
+            "case": "different_scales",
+            "operator": "sum"
+        },
+        "61610e9a-13c4-4670-8616-c6218f7793ad": {
+            "case": "positive_num",
+            "keyword": "change",
+            "operator": "sum",
+            "suggested_operator": "diff"
+        },
+        "a178c3fe-be6d-4272-8d2a-51609f5b2f7c": {
+            "case": "positive_num",
+            "operator": "sum"
+        },
+        "8de2ed8c-c548-4bb9-982c-5d714675b443": {
+            "case": "missing_fact",
+            "operator": "multiply"
+        },
+        "163f08ab-cfae-426a-9c03-4f84feba3bb6": {
+            "case": "positive_num",
+            "keyword": "use",
+            "operator": "average"
+        },
+        "f9898b19-f84e-4cd8-9cd2-330767f39a38": {
+            "case": "positive_num",
+            "keyword": "vest",
+            "operator": "average"
+        },
+        "f140a65f-c408-45fc-8c60-e98e13530452": {
+            "case": "positive_num",
+            "keyword": "forfeit",
+            "operator": "average"
+        },
+        "643cfcef-6d2c-4df7-b538-3588e28b58e1": {
+            "case": "positive_num",
+            "keyword": "loss",
+            "operator": "average"
+        },
+        "aef42c33-65c0-40a3-92e7-fefd107aacdb": {
+            "case": "scale",
+            "operator": "average"
+        },
+        "79f658b0-e8e5-4b83-bdbe-4d4f96261c69": {
+            "case": "positive_num",
+            "operator": "average"
+        },
+        "5c8c999e-354f-4693-9b2d-29e3c03cb2af": {
+            "case": "dash_in_cell",
+            "operator": "diff"
+        },
+        "b4884040-a0bc-428a-9a1c-6346acb6dc3c": {
+            "case": "positive_num",
+            "keyword": "amortization",
+            "operator": "diff"
+        },
+        "7c4e4e9d-57e2-4a1a-9f8c-32c09311948b": {
+            "case": "positive_num",
+            "keyword": "use",
+            "operator": "diff"
+        },
+        "e302a7ec-94e5-4bea-bff4-5d4b9d4f6265": {
+            "case": "year",
+            "operator": "diff"
+        },
+        "9f84812f-f352-4bdf-835d-e8d19254149a": {
+            "case": "text_in_cell",
+            "operator": "diff"
+        },
+        "ff1e12e8-e148-470f-95a8-3f23e02fa62d": {
+            "case": "positive_num",
+            "operator": "diff"
+        },
+        "9750180c-588d-4ba3-bc94-297d64b50e44": {
+            "case": "positive_num",
+            "keyword": "depreciation",
+            "operator": "divide"
+        },
+        "127264c3-16b9-4324-aff1-722420c93b5d": {
+            "case": "missing_fact",
+            "operator": "divide"
+        },
+        "8a7ef462-5a25-48c9-8a49-3fb543a73785": {
+            "case": "positive_num",
+            "operator": "divide"
+        }
+    }
+}

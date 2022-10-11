@@ -1,0 +1,1804 @@
+{
+    "train": {
+        "6b9d03c1-15c4-43a3-8c77-fd64ec4000bb": {
+            "mapping": {
+                "table": [
+                    [1, 1], 
+                    [1, 2]
+                ]
+            },
+            "operator": "sum"
+        },
+        "3c7c6154-c516-4900-b26a-eb3d1f4bb122": {
+            "answer_from": "text",
+            "mapping": {
+                "table": []
+            },
+            "operator": "sum"
+        },
+        "1d1587fc-acac-482b-a5b5-3710b00ebea4": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [3, 1],
+                    [4, 1],
+                    [5, 1]
+                ]
+            },
+            "operator": "sum"
+        },
+        "86ffba83-9769-4bda-9119-309782251721": {
+            "mapping": {
+                "table": [
+                    [8, 1],
+                    [3, 1]
+                ]
+            },
+            "operator": "sum"
+        },
+        "981ed245-d879-42de-b1f6-f494f4ed106a": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [8, 1],
+                    [12, 1]
+                ]
+            },
+            "operator": "sum"
+        },
+        "685b1224-04ba-4cf5-89c5-8032ac8022d9": {
+            "mapping": {
+                "table": [
+                    [1, 3],
+                    [2, 3],
+                    [5, 3]
+                ]
+            },
+            "operator": "sum"
+        },
+        "44d5fbf3-0cd3-4444-8f58-016111d29f49": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [3, 1],
+                    [4, 2]
+                ]
+            },
+            "operator": "sum"
+        },
+        "ecf42579-d1ba-4708-b9f4-9679ada3a641": {
+            "mapping": {
+                "table": [
+                    [2, 2],
+                    [2, 3]
+                ]
+            },
+            "operator": "sum"
+        },
+        "35f6df76-8f3a-4ad9-98de-55efb7115648": {
+            "mapping": {
+                "table": [
+                    [1, 2],
+                    [2, 2],
+                    [3, 2]
+                ]
+            },
+            "operator": "sum"
+        },
+        "5d1b5f76-54c2-4056-8429-97224cd18225": {
+            "mapping": {
+                "table": [
+                    [1, 3],
+                    [2, 3],
+                    [3, 3]
+                ]
+            },
+            "operator": "sum"
+        },
+        "58192eb3-458a-4a28-bd41-eabf23c41abc": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [4, 1],
+                    [5, 1],
+                    [6, 1],
+                    [7, 1],
+                    [8, 1],
+                    [9, 1],
+                    [10, 1],
+                    [11, 1]
+                ]
+            },
+            "operator": "sum"
+        },
+        "ec32eb75-2422-4a0b-87de-b0f7ae9d5815": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2]
+                ]
+            },
+            "operator": "sum"
+        },
+        "08dd24d2-263e-404a-8a13-4f93034ef8f0": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [2, 2]
+                ]
+            },
+            "operator": "sum"
+        },
+        "628050df-56f0-4ef6-aa97-d9738b4754d1": {
+            "mapping": {
+                "table": [
+                    [3, 5],
+                    [4, 5]
+                ]
+            },
+            "operator": "sum"
+        },
+        "1ca89afc-bad5-4f45-8a65-2c5c409c3712": {
+            "mapping": {
+                "paragraph": {
+                    "3": [
+                        [4, 10]
+                    ],
+                    "4": [
+                        [4, 9]
+                    ],
+                    "5": [
+                        [4, 9]
+                    ]
+                }
+            },
+            "operator": "sum"
+        },
+        "212b4f7b-d96a-4c15-b783-a6ff0c61386a": {
+            "answer_from": "text",
+            "mapping": {
+                "table": [],
+                "paragraph": {
+                    "2": [
+                        [38, 44]
+                    ],
+                    "3": [
+                        [38, 43]
+                    ]
+                }
+            },
+            "operator": "sum"
+        },
+        "570252f5-ac84-4762-8227-e949f34ef2b6": {
+            "mapping": {
+                "table": [
+                    [6, 1],
+                    [6, 2],
+                    [7, 1],
+                    [7, 2],
+                    [8, 1],
+                    [8, 2]
+                ]
+            },
+            "operator": "sum"
+        },
+        "12e43d57-498e-408d-9d0f-ac4f9d60865f": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [10, 1]
+                ]
+            },
+            "operator": "sum"
+        },
+        "353d4b39-770e-44cd-8453-cab8d887de39": {
+            "mapping": {
+                "paragraph": {
+                    "6": [
+                        [53, 55], 
+                        [61, 63]
+                    ]
+                }
+            },
+            "operator": "sum"
+        },
+        "10037ffc-3293-4b25-bd8a-00b6d96e0b39": {
+            "mapping": {
+                "table": [
+                    [1, 1],
+                    [4, 1]
+                ]
+            },
+            "operator": "sum"
+        },
+        "6ca1b744-a65d-470c-98ed-ddab564e503b": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [4, 1]
+                ]
+            },
+            "operator": "sum"
+        },
+        "85e7ecbe-2976-42e8-936b-cdc8ed2c37e7": {
+            "mapping": {
+                "paragraph": {
+                    "3": [
+                        [152, 159],
+                        [190, 192]
+                    ]
+                }
+            },
+            "operator": "multiply"
+        },
+        "1538ad85-dec0-4047-8242-0d194ff30942": {
+            "mapping": {
+                "table": [
+                    [7, 1],
+                    [7, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "640f0a84-b1bf-44aa-92ae-84259399a208": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [3, 2],
+                    [3, 3]
+                ]
+            },
+            "operator": "average"
+        },
+        "5190c589-3ef7-4045-a61a-6c437518dd3a": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [3, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "e1975a9f-fef9-4d1e-a4ba-07337520aa8f": {
+            "mapping": {
+                "table": [
+                    [5, 1],
+                    [5, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "128ff9ae-dd5e-4ef3-8d30-183ed9ae3f58": {
+            "mapping": {
+                "table": [
+                    [9, 1],
+                    [9, 2],
+                    [9, 3]
+                ]
+            },
+            "operator": "average"
+        },
+        "1be3cd60-1510-47d0-9071-613ea193c255": {
+            "mapping": {
+                "table": [
+                    [1, 2],
+                    [2, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "fb0f41ac-d7bc-4305-990a-c2f40f89d2d1": {
+            "mapping": {
+                "table": [
+                    [4, 2],
+                    [5, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "772e9fd9-9e05-4216-9261-f5edcf5909e3": {
+            "mapping": {
+                "table": [
+                    [6, 1],
+                    [6, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "36308f38-3fc0-4fd2-93c7-c5493a2a9eb9": {
+            "mapping": {
+                "table": [
+                    [4, 3],
+                    [4, 4]
+                ]
+            },
+            "operator": "average"
+        },
+        "0a56e98c-6aaf-4396-ac37-c410485a724b": {
+            "mapping": {
+                "table": [
+                    [5, 1],
+                    [5, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "b69936ef-49eb-418c-a83f-9358cf50ead1": {
+            "mapping": {
+                "table": [
+                    [6, 3],
+                    [7, 3],
+                    [8, 3]
+                ]
+            },
+            "operator": "average"
+        },
+        "6cd83a70-6cae-459e-9e40-e56af3bef0be": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [2, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "28ab4bcd-5e8d-4c1c-9fb9-f7a8051df1ba": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "e045f1cd-c591-4bfd-9cf5-4a259887c8ca": {
+            "mapping": {
+                "table": [
+                    [1, 1],
+                    [2, 1],
+                    [3, 1]
+                ]
+            },
+            "operator": "average"
+        },
+        "51c5cb7a-0462-4116-92ee-a78867126948": {
+            "mapping": {
+                "table": [
+                    [5, 1],
+                    [5, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "eea581e8-4d4b-4104-8ae8-7f18123d573d": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [2, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "dd026e2a-ea3d-4b89-9c44-ce3f5e6fe99b": {
+            "mapping": {
+                "table": [
+                    [12, 1],
+                    [12, 2],
+                    [12, 3]
+                ]
+            },
+            "operator": "average"
+        },
+        "dd9f4624-f006-4400-9dfe-2ef3be05c744": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [2, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "e2242a2f-e79d-4e0c-a68b-630ca7dfdfad": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "8307739d-f86b-4b98-8a23-8e5680efa2d4": {
+            "mapping": {
+                "table": [
+                    [9, 1],
+                    [9, 2],
+                    [9, 3]
+                ]
+            },
+            "operator": "average"
+        },
+        "7ed29b79-fb6c-4f56-9cd5-f7c583c4b903": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [2, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "046cdb6c-1bf1-4c24-8ef4-4a5b95798ba0": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "6a5d1468-02d6-434a-b326-af2ed4ae3319": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2],
+                    [4, 3]
+                ]
+            },
+            "operator": "average"
+        },
+        "24402637-32f9-4129-baac-c7a3f1c78e2e": {
+            "mapping": {
+                "table": [
+                    [7, 1],
+                    [7, 2],
+                    [7, 3]
+                ]
+            },
+            "operator": "average"
+        },
+        "fbe94a58-e752-4a49-bd54-1d964d08d893": {
+            "mapping": {
+                "table": [
+                    [13, 1],
+                    [13, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "2da2dddf-f3da-470a-a34a-6a0df5947472": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [2, 2],
+                    [2, 3]
+                ]
+            },
+            "operator": "average"
+        },
+        "e83f1766-e8b6-421f-b51c-f56d29e513a8": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2],
+                    [4, 3]
+                ]
+            },
+            "operator": "average"
+        },
+        "62fbf090-8387-46dd-9e2b-d319699e4811": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [3, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "9b7069e3-d856-493e-8849-af640f1c0dec": {
+            "mapping": {
+                "table": [
+                    [7, 1],
+                    [7, 2],
+                    [7, 3]
+                ]
+            },
+            "operator": "average"
+        },
+        "5d3f0440-ad91-4795-90af-a56ec59c0508": {
+            "mapping": {
+                "table": [
+                    [3, 1]
+                ]
+            },
+            "operator": "average"
+        },
+        "4e57c745-28aa-4ba9-a690-164e8b4d41c5": {
+            "mapping": {
+                "table": [
+                    [2, 1]
+                ]
+            },
+            "operator": "average"
+        },
+        "e3b6c3ce-bc96-49e0-a2a5-2aca2376db03": {
+            "mapping": {
+                "table": [
+                    [4, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "28042ec5-d6a5-40e2-8c61-6ba2fb1194b5": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "e925d7ab-a48c-497f-9f00-29005b315ca2": {
+            "mapping": {
+                "table": [
+                    [5, 1],
+                    [5, 3]
+                ]
+            },
+            "operator": "diff"
+        },
+        "b21b7d73-a581-4e3f-8847-58280b20d59a": {
+            "mapping": {
+                "table": [
+                    [14, 2]
+                ],
+                "paragraph": {
+                    "5": [
+                        [40, 42]
+                    ]
+                }
+            },
+            "operator": "diff"
+        },
+        "89f44070-0740-42f3-88bb-fa108d0e54c2": {
+            "mapping": {
+                "table": [
+                    [14, 3]
+                ],
+                "paragraph": {
+                    "5": [
+                        [65, 67]
+                    ]
+                }
+            },
+            "operator": "diff"
+        },
+        "2b994607-bb8d-4b32-acd4-14a3c5f807fb": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "c2897096-e60e-4a81-aa8d-40e3dd5e9665": {
+            "mapping": {
+                "paragraph": {
+                    "5": [
+                        [277, 280],
+                        [284, 287]
+                    ]
+                }
+            },
+            "operator": "diff"
+        },
+        "dcf47d08-a49a-405f-bd96-6f81129d983a": {
+            "mapping": {
+                "table": [
+                    [6, 1],
+                    [6, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "8d1df274-ffa3-4e01-aa82-79cc642bf82a": {
+            "mapping": {
+                "table": [
+                    [3, 2],
+                    [4, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "1d808711-7900-4c8a-a4b5-2e5a7a69dd58": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [3, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "e23b1ba2-b052-49b1-9535-3d58dbc10c48": {
+            "mapping": {
+                "table": [
+                    [5, 1],
+                    [5, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "eb92a24d-a751-48c1-bb6f-6c83030d24bb": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [3, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "bc726c6b-ea11-436a-a45b-4768544802e2": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [2, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "0a1148ba-0439-4fa4-8bd1-2cc92e7ae60b": {
+            "mapping": {
+                "table": [
+                    [7, 1],
+                    [8, 1]
+                ]
+            },
+            "operator": "diff"
+        },
+        "0d69d013-2922-4dc6-b9d9-d1c1a849034f": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [2, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "f9200a72-fb65-4d97-a617-874797d649f2": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [6, 1]
+                ]
+            },
+            "operator": "diff"
+        },
+        "c4edc71b-854a-4f79-9305-f5dfe9871739": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "248c8608-dd91-4e4d-b677-b15412a754ef": {
+            "mapping": {
+                "table": [
+                    [4, 1]
+                ],
+                "paragraph": {
+                    "2": [
+                        [13, 14]
+                    ]
+                }
+            },
+            "operator": "diff"
+        },
+        "8456e6cd-3a12-4508-83a6-38d3de604bee": {
+            "mapping": {
+                "table": [
+                    [5, 1],
+                    [9, 1]
+                ]
+            },
+            "operator": "diff"
+        },
+        "5699bafc-0589-45f2-8989-865fae0ad6b2": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "740ca0d5-ee60-4ef0-a743-fc3decc984d5": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [6, 1]
+                ]
+            },
+            "operator": "diff"
+        },
+        "4f56b2be-5f84-4475-8156-f25c6942df43": {
+            "mapping": {
+                "table": [
+                    [6, 1],
+                    [6, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "5383b3c1-a73f-4ea4-81e4-0bd7da950984": {
+            "mapping": {
+                "table": [
+                    [5, 2],
+                    [5, 3]
+                ]
+            },
+            "operator": "diff"
+        },
+        "d7473de6-8ca5-4578-b4c9-27656ef0d2cb": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [2, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "fe69e0e0-20ba-482e-907c-bfa00cf9fee4": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [3, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "b4b10cba-e2f7-4648-bfde-7eac35caae35": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 3]
+                ]
+            }
+        },
+        "06328c0a-eb09-4c35-b2e7-fb3fc071b2f0": {
+            "mapping": {
+                "table": [
+                    [1, 1],
+                    [3, 1]
+                ]
+            },
+            "operator": "diff"
+        },
+        "2d346f34-2f7c-4031-b63f-670c1a74d898": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "3fb36677-4b18-4c1a-879e-0cdc1a903a57": {
+            "mapping": {
+                "table": [
+                    [7, 2],
+                    [7, 3]
+                ]
+            },
+            "operator": "diff"
+        },
+        "ed9ce354-7e21-4674-9221-bc787ee5bbd1": {
+            "mapping": {
+                "table": [
+                    [5, 1],
+                    [5, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "6afb10f6-4171-4aef-b9b3-f8939eba7bff": {
+            "mapping": {
+                "table": [
+                    [7, 1],
+                    [7, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "dc278dd1-3935-490d-ab87-9fef7faf5c4b": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [2, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "7946e7a6-2e24-4fe6-8098-b4dbce2ba479": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [3, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "0fb42178-5213-4038-b760-a2d78be4a94b": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [3, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "2d2efe81-5ca7-4243-927c-d698b5256bad": {
+            "mapping": {
+                "table": [
+                    [22, 1],
+                    [22, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "94e84355-77a3-45b0-9d0b-02baf52ff6ed": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [3, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "a077ef46-3556-41f8-95fb-b35b7c8bd059": {
+            "mapping": {
+                "table": [
+                    [4, 6],
+                    [4, 7]
+                ]
+            },
+            "operator": "diff"
+        },
+        "2ac259d6-a738-41e7-a727-287522bacaa9": {
+            "mapping": {
+                "paragraph": {
+                    "9": [
+                        [174, 178],
+                        [207, 210]
+                    ]
+                }
+            },
+            "operator": "diff"
+        },
+        "52eb2dd5-cbc0-4d54-812a-5e05fd377200": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [3, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "4c7876b8-6750-49e4-8566-b552c23b4d0b": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "34eafc78-20ea-48a7-8eae-989386a19a2f": {
+            "mapping": {
+                "table": [
+                    [7, 1],
+                    [7, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "ce94fa66-acfb-4a64-bad9-119f4a6f7340": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [3, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "e227ec32-2078-4309-abce-1161558ad386": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "2c3675ab-1f5c-48a4-a80a-331a3e18a8b3": {
+            "mapping": {
+                "table": [
+                    [12, 1],
+                    [12, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "b49fc78b-ffca-43ba-b1d0-65b510dd6627": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [7, 1]
+                ]
+            },
+            "operator": "diff"
+        },
+        "221e25d9-9b07-4f47-82dd-81092c6703b8": {
+            "mapping": {
+                "table": [
+                    [5, 1],
+                    [5, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "ef61e311-145d-4e4d-b300-b57c00871168": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "d54aa640-5c4e-4b2b-89c9-8bd169fa7353": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [3, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "2ce27b5f-01fa-46f5-9a39-91456fae072b": {
+            "mapping": {
+                "table": [
+                    [2, 3],
+                    [3, 3]
+                ]
+            },
+            "operator": "diff"
+        },
+        "8483aa56-4f9a-402a-9ebe-9879079df5d3": {
+            "mapping": {
+                "table": [
+                    [10, 1],
+                    [10, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "8742ed71-2fba-4f89-9781-32d876bbb4c3": {
+            "mapping": {
+                "table": [
+                    [11, 2],
+                    [12, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "e2eaaa6c-c0b9-4336-a954-b9b46d9b5700": {
+            "mapping": {
+                "table": [
+                    [1, 1],
+                    [1, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "73399809-1ff7-42b7-9900-02c692706c5a": {
+            "mapping": {
+                "table": [
+                    [1, 1],
+                    [2, 1]
+                ]
+            },
+            "operator": "diff"
+        },
+        "a900af0d-a4fb-4f16-b48f-624f8576f08f": {
+            "mapping": {
+                "paragraph": {
+                    "4": [
+                        [65, 68],
+                        [81, 84]
+                    ]
+                }
+            },
+            "operator": "diff"
+        },
+        "99f1cb28-c0d5-4cda-b50a-a1d7c17b777a": {
+            "answer_from": "text",
+            "mapping": {
+                "table": []
+            },
+            "operator": "diff"
+        },
+        "64a024d6-46f6-4cbe-8b06-fef23c8a73d6": {
+            "mapping": {
+                "table": [
+                    [2, 4],
+                    [3, 4]
+                ]
+            },
+            "operator": "diff"
+        },
+        "3ecbe1aa-e8c3-40ef-ba73-a53d5845fb85": {
+            "mapping": {
+                "table": [
+                    [3, 3],
+                    [3, 4]
+                ]
+            },
+            "operator": "diff"
+        },
+        "5bdda528-af52-49c3-bba3-5bc1f15758e5": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "2ae569b8-e45f-43f9-99bd-1150ae88c475": {
+            "mapping": {
+                "table": [
+                    [1, 1],
+                    [1, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "64b970a1-0dc8-4dd6-a244-b51ffcc74489": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "64dca1ae-240c-4324-84ac-4841e84cfa20": {
+            "mapping": {
+                "table": [
+                    [12, 1],
+                    [13, 1]
+                ]
+            },
+            "operator": "diff"
+        },
+        "353a3096-576b-4d04-9af3-ebb58e27a859": {
+            "mapping": {
+                "table": [
+                    [5, 1],
+                    [5, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "019dae57-8c9a-41dc-a5d8-b52f0a05e606": {
+            "mapping": {
+                "table": [
+                    [1, 1],
+                    [1, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "dfea42d6-63ce-4478-a53f-0de5a77dceca": {
+            "mapping": {
+                "table": [
+                    [1, 1],
+                    [1, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "09f1b811-247c-4f42-bf62-40fb3360d8c7": {
+            "mapping": {
+                "table": [
+                    [8, 1],
+                    [8, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "49baf56b-4228-47cb-a72e-279f63112997": {
+            "mapping": {
+                "table": [
+                    [5, 1],
+                    [5, 3]
+                ]
+            }
+        },
+        "a7500738-2bd2-4061-b496-e690e5fd5bae": {
+            "mapping": {
+                "table": [
+                    [10, 1],
+                    [10, 2],
+                    [10, 3]
+                ]
+            },
+            "operator": "divide"
+        },
+        "64acd3bf-7c44-49b9-af92-66bfe6b5bb00": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [3, 1],
+                    [4, 1],
+                    [5, 1],
+                    [6, 1],
+                    [7, 1],
+                    [8, 1],
+                    [9, 1],
+                    [10, 1],
+                    [11, 1],
+                    [12, 1]
+                ]
+            },
+            "operator": "divide"
+        },
+        "537a28dd-eee9-4fa9-8990-c18422160bed": {
+            "answer_from": "text",
+            "mapping": {
+                "table": []
+            },
+            "operator": "divide"
+        },
+        "3669ea91-2ddf-4f8f-a3c0-e26395285c84": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [3, 2],
+                    [3, 3]
+                ]
+            },
+            "operator": "divide"
+        },
+        "d8b31960-997d-4a0c-afa6-9a1636cfc78b": {
+            "answer_from": "text",
+            "mapping": {
+                "table": []
+            },
+            "operator": "divide"
+        },
+        "0048fa65-d4e9-48eb-a98a-cfa79d26d865": {
+            "mapping": {
+                "table": [
+                    [4, 2],
+                    [4, 4]
+                ]
+            },
+            "operator": "divide"
+        },
+        "eb66e0c-e24d-431d-bc9b-23d07cb98fa7": {
+            "mapping": {
+                "table": [
+                    [8, 3],
+                    [11, 3]
+                ]
+            },
+            "operator": "divide"
+        },
+        "e7b52704-b06c-460c-8342-4e26ccb8a137": {
+            "mapping": {
+                "table": [
+                    [5, 2],
+                    [5, 3],
+                    [5, 4],
+                    [5, 5]
+                ]
+            },
+            "operator": "divide"
+        },
+        "b799015d-5b5d-40cd-b2fb-fbcd44b3d628": {
+            "mapping": {
+                "table": [
+                    [9, 2],
+                    [9, 3],
+                    [9, 4],
+                    [9, 5]
+                ]
+            },
+            "operator": "divide"
+        },
+        "a3912857-5f6a-4b02-ad7e-be47e3e60f6f": {
+            "mapping": {
+                "paragraph": {
+                    "4": [
+                        [46, 49]
+                    ]
+                }
+            },
+            "operator": "divide"
+        },
+        "cab4b66c-20c8-46f2-94be-809158a9b070": {
+            "mapping": {
+                "table": [
+                    [8, 1],
+                    [11, 1]
+                ]
+            },
+            "operator": "divide"
+        },
+        "389d1f45-b24b-4aea-a42f-533556c513a4": {
+            "mapping": {
+                "table": [
+                    [4, 5],
+                    [9, 5]
+                ]
+            },
+            "operator": "divide"
+        },
+        "c6a92a38-e9a2-4d15-9b71-028a63067ed6": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [6, 1]
+                ]
+            },
+            "operator": "divide"
+        },
+        "379dc971-d303-48d2-bfa4-b302577d1dbc": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [3, 1],
+                    [4, 1]
+                ]
+            },
+            "operator": "divide"
+        },
+        "e5d971f8-ad94-46de-a447-77a3b011f197": {
+            "mapping": {
+                "table": [
+                    [1, 2],
+                    [1, 3]
+                ]
+            },
+            "operator": "divide"
+        },
+        "62abf0bd-d610-45be-bf0e-87fa987e0acf": {
+            "mapping": {
+                "table": [
+                    [3, 2],
+                    [3, 3]
+                ]
+            },
+            "operator": "divide"
+        },
+        "ec52dc53-d3b3-48f4-a223-8a49d1dc1a80": {
+            "mapping": {
+                "table": [
+                    [6, 1],
+                    [6, 2],
+                    [6, 3]
+                ]
+            },
+            "operator": "divide"
+        },
+        "62b2affc-7431-40f3-9eeb-112eb375c68a": {
+            "answer_from": "text",
+            "mapping": {
+                "table": []
+            },
+            "operator": "divide"
+        },
+        "939f061c-a1a1-481a-bd40-bd4ca40fb7d0": {
+            "mapping": {
+                "table": [
+                    [2, 2],
+                    [3, 2]
+                ]
+            },
+            "operator": "divide"
+        },
+        "3034ea31-6de3-4f2c-a30b-8aa3322659c6": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [5, 1]
+                ]
+            },
+            "operator": "divide"
+        },
+        "56a6413e-3c72-4b41-a18b-ab39ee48630b": {
+            "mapping": {
+                "table": [
+                    [5, 2],
+                    [6, 2]
+                ]
+            },
+            "operator": "divide"
+        },
+        "be999ad3-f67c-4b19-8e2a-0e1452c249d5": {
+            "mapping": {
+                "table": [
+                    [7, 1],
+                    [7, 2]
+                ]
+            },
+            "operator": "divide"
+        },
+        "bbedb0d4-e9ff-4579-bf2e-ac070884a012": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [3, 2],
+                    [3, 3]
+                ]
+            },
+            "operator": "divide"
+        },
+        "b6268793-1994-436f-b37f-0dc551cbe17b": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2],
+                    [4, 3]
+                ]
+            },
+            "operator": "divide"
+        },
+        "c9ab65e4-737b-472f-994f-139f94599b37": {
+            "mapping": {
+                "paragraph": {
+                    "3": [
+                        [72, 75],
+                        [88, 91]
+                    ]
+                }
+            },
+            "operator": "divide"
+        },
+        "b6edd3a5-0db4-4600-b34f-1530e2d6c6ad": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [5, 1]
+                ]
+            },
+            "operator": "divide"
+        },
+        "dc1a8413-cb3e-4a0c-95a5-de25f3441515": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [4, 1]
+                ]
+            },
+            "operator": "divide"
+        },
+        "aad1f8bc-58e2-4f6a-8596-839e39987789": {
+            "mapping": {
+                "table": [
+                    [3, 1]
+                ],
+                "question": [
+                    [52, 55]
+                ]
+            },
+            "operator": "divide"
+        },
+        "86fc5bff-17bf-4da0-81d8-3e16e28b4a6b": {
+            "mapping": {
+                "table": [
+                    [10, 1],
+                    [10, 2],
+                    [10, 3]
+                ]
+            },
+            "operator": "divide"
+        },
+        "b4256ee9-6fbd-4a41-ab13-e51ae28b9324": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2]
+                ]
+            },
+            "operator": "divide"
+        },
+        "77739a02-24f7-4ef8-99aa-07e2a2a54fc": {
+            "mapping": {
+                "table": [
+                    [3, 3],
+                    [5, 3]
+                ]
+            },
+            "operator": "divide"
+        },
+        "7c8f755d-8b50-48f0-9e5d-8ec9efd7c63f": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [4, 1]
+                ]
+            },
+            "operator": "divide"
+        },
+        "d9c7bdc4-80ff-4e78-ba50-58671f274258": {
+            "mapping": {
+                "table": [
+                    [10, 1],
+                    [13, 1]
+                ]
+            },
+            "operator": "divide"
+        },
+        "5f42f06b-b296-48bb-8fbd-af1b78416243": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [3, 3]
+                ]
+            },
+            "operator": "divide"
+        },
+        "5a07fc67-aa6e-4511-ac50-0a3b1b72192f": {
+            "mapping": {
+                "table": [
+                    [2, 2],
+                    [2, 4]
+                ]
+            },
+            "operator": "divide"
+        },
+        "c750000f-1456-4a52-b0db-fc254ee6a5c0": {
+            "mapping": {
+                "paragraph": {
+                    "1": [
+                        [1270, 1276]
+                    ]
+                }
+            },
+            "operator": "divide"
+        },
+        "d110b258-312a-4df9-840f-f0a55aa31d8d": {
+            "mapping": {
+                "table": [
+                    [5, 2],
+                    [6, 2]
+                ]
+            },
+            "operator": "divide"
+        },
+        "c7128646-41c9-45ad-adf5-4cb96aa2b564": {
+            "mapping": {
+                "paragraph": {
+                    "2": [
+                        [35, 40]
+                    ]
+                }
+            },
+            "operator": "divide"
+        },
+        "4a3fa03c-1547-4dca-96d1-96570135120c": {
+            "mapping": {
+                "table": [
+                    [2, 3],
+                    [3, 3]
+                ]
+            },
+            "operator": "change-ratio"
+        },
+        "4b69faec-8324-434e-8fbf-9ab4c0036c27": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [2, 2]
+                ]
+            },
+            "operator": "change-ratio"
+        },
+        "2efd1cc5-ea3b-4db6-aaa7-78310a8cdd69": {
+            "mapping": {
+                "paragraph": {
+                    "2": [
+                        [460, 463],
+                        [534, 537]
+                    ]
+                }
+            },
+            "operator": "change-ratio"
+        },
+        "0341fb75-1e6c-40fd-acbb-80dc16d7ab91": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2]
+                ]
+            },
+            "operator": "change-ratio"
+        },
+        "bf8300b2-df8d-42a7-8b22-2dc312ccef41": {
+            "mapping": {
+                "table": [
+                    [5, 1],
+                    [5, 2]
+                ]
+            },
+            "operator": "change-ratio"
+        },
+        "ad0c9e23-adff-4f08-99f1-6cf92c04fedf": {
+            "mapping": {
+                "table": [
+                    [5, 2],
+                    [5, 3]
+                ]
+            },
+            "operator": "change-ratio"
+        },
+        "f9d42fbc-501e-42d6-af7f-ad19869235cc": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [3, 2]
+                ]
+            },
+            "operator": "change-ratio"
+        },
+        "1bc8186a-2c6a-40f2-95cd-c763767d613d": {
+            "mapping": {
+                "paragraph": {
+                    "6": [
+                        [1013, 1022],
+                        [1027, 1036]
+                    ]
+                }
+            },
+            "operator": "change-ratio"
+        },
+        "a94eb0e2-476e-42e6-8f70-0c81b18f3893": {
+            "mapping": {
+                "table": [
+                    [7, 2],
+                    [7, 3]
+                ]
+            },
+            "operator": "change-ratio"
+        },
+        "ed132777-1cf7-45a8-95f9-87d1c0ce8609": {
+            "mapping": {
+                "table": [
+                    [13, 1],
+                    [13, 2]
+                ]
+            },
+            "operator": "change-ratio"
+        },
+        "7bec7f9f-b7f9-41af-876c-d5b4871fbe19": {
+            "mapping": {
+                "table": [
+                    [10, 1],
+                    [10, 2]
+                ]
+            },
+            "operator": "change-ratio"
+        },
+        "62dbd722-78a0-48d6-a4c8-e4fa7c5a9f8c": {
+            "mapping": {
+                "table": [
+                    [81, 90],
+                    [96, 105]
+                ]
+            },
+            "operator": "change-ratio"
+        },
+        "60cfec84-ba9c-40b3-a439-bd3140488f1d": {
+            "mapping": {
+                "table": [
+                    [5, 1],
+                    [5, 2]
+                ]
+            },
+            "operator": "change-ratio"
+        },
+        "76764d17-8671-490f-b565-02d0f66c9c2b": {
+            "mapping": {
+                "table": [
+                    [12, 1],
+                    [12, 5]
+                ]
+            },
+            "operator": "change-ratio"
+        }
+    },
+    "val": {
+        "0387cbd4-ca2d-46d5-a765-36a393525af8": {
+            "mapping": {
+                "paragraph": {
+                    "5": [
+                        [26, 33]
+                    ],
+                    "6": [
+                        [29, 36]
+                    ]
+                }
+            },
+            "operator": "sum"
+        },
+        "9406b211-17a1-4a97-a646-a57170b7e270": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [4, 1]
+                ]
+            },
+            "operator": "sum"
+        },
+        "16e717d5-80b8-4888-9e21-cf255ae2a5a5": {
+            "mapping": {
+                "paragraph": {
+                    "7": [
+                        [167, 170],
+                        [250, 253]
+                    ]
+                }
+            },
+            "operator": "sum"
+        },
+        "33de3029-3056-4598-bdff-30d9be4f52c3": {
+            "mapping": {
+                "table": [
+                    [7, 1],
+                    [7, 2],
+                    [7, 3]
+                ]
+            },
+            "operator": "average"
+        },
+        "5a58d6e1-8526-49cc-a56a-c4ade901790c": {
+            "mapping": {
+                "table": [
+                    [2, 2],
+                    [3, 2]
+                ]
+            },
+            "operator": "average"
+        },
+        "b875ba98-fe2e-43b4-bec5-57379487e755": {
+            "mapping": {
+                "table": [
+                    [2, 1],
+                    [2, 2],
+                    [2, 3]
+                ]
+            },
+            "operator": "average"
+        },
+        "79f06004-f4fc-4e82-a9fe-3c389a2f81b6": {
+            "mapping": {
+                "table": [
+                    [1, 1],
+                    [1, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "5c8c999e-354f-4693-9b2d-29e3c03cb2af": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [3, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "95497d9b-23d7-4c89-832c-bcf408981985": {
+            "mapping": {
+                "table": [
+                    [6, 1],
+                    [6, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "066fbf2d-e3e7-4f55-bbe0-a71ddeaa2685": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [3, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "5fa12af1-123b-4683-b2ed-5a2b439c50f4": {
+            "mapping": {
+                "table": [
+                    [1, 1],
+                    [1, 3]
+                ]
+            },
+            "operator": "diff"
+        },
+        "e9b75381-50b1-4717-a322-31ed1eef4259": {
+            "mapping": {
+                "table": [
+                    [5, 2],
+                    [5, 3]
+                ]
+            },
+            "operator": "diff"
+        },
+        "78f0aebe-c955-4e78-831e-0ffa77c0f50b": {
+            "mapping": {
+                "table": [
+                    [9, 1],
+                    [9, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "312a9328-b83f-43c6-b652-59547090cd30": {
+            "mapping": {
+                "table": [
+                    [4, 1],
+                    [4, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "424177bf-1bab-4f7a-b11c-61e7eaa1a493": {
+            "mapping": {
+                "table": [
+                    [2, 2],
+                    [2, 4]
+                ]
+            },
+            "operator": "diff"
+        },
+        "89e21fa8-60b1-4f4f-be8d-497733907f52": {
+            "mapping": {
+                "table": [
+                    [6, 1],
+                    [6, 2]
+                ]
+            },
+            "operator": "diff"
+        },
+        "710bc8e8-3a6b-42ef-b122-a348250715f1": {
+            "mapping": {
+                "table": [
+                    [9, 2],
+                    [9, 4]
+                ]
+            },
+            "operator": "divide"
+        },
+        "ff90c9d7-de34-46da-a7b2-c7c2747fab0a": {
+            "mapping": {
+                "table": [
+                    [3, 1],
+                    [6, 1]
+                ]
+            },
+            "operator": "divide"
+        },
+        "73618a72-ca8a-43f4-b384-409aec6bbb75": {
+            "mapping": {
+                "table": [
+                    [9, 1],
+                    [9, 2]
+                ]
+            },
+            "operator": "change-ratio"
+        }
+    }
+}
